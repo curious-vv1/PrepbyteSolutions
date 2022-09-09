@@ -16,9 +16,8 @@ int main()
     for(k=5;k>=j;k--){
       cout<<"  ";
     }
-    for(k=1;k<=i;k++)
-    {cout<<j-k;
-      
+    for(k=1;k<=i;k++){
+      cout<<j-k;
     }
     cout<<"\n";
   }
